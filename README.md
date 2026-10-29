@@ -1,2 +1,5 @@
-# -Assignment02-File-Handling
-File Handling
+/*
+ * Name : Mohid Amer
+ * Reg No : L1F25BSCS0071
+ * Assignment : 02 - File Handling
+ */
